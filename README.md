@@ -7,5 +7,3 @@ Al cambiar entre **Radio / Diámetro / Circunferencia**, la app:
 
 - Limpia mensajes de error previos.
 - Limpia los resultados mostrados (vuelve a “Tipo: -” y “Resultados: -”).
-
-Si prefieres **conservar** los resultados al cambiar modo, elimina la llamada a `clearResults()` dentro del listener `rgMode.setOnCheckedChangeListener` en `MainActivity.kt`.
