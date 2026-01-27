@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CircleStarter</string>
+    <string name="circle_starter">Circle Starter</string>
+
+    <string name="di_metro">Diámetro</string>
+    <string name="circunferencia">Circunferencia</string>
+    <string name="radio">Radio</string>
+    <string name="circunferencia_c">Circunferencia (C)</string>
+    <string name="calcular">Calcular</string>
+
+    <!-- Defaults -->
+    <string name="tipo">Tipo: -</string>
+    <string name="resultados">Resultados: -</string>
+
+    <!-- Formato de salida (RFU-11) -->
+    <string name="type_value">Tipo: %1$s</string>
+    <string name="results_template">Resultados:\nRadio (r): %1$s\nDiámetro (d): %2$s\nCircunferencia (C): %3$s\nÁrea (A): %4$s</string>
+
+    <!-- Errores (RFU-04/05/06/12) -->
+    <string name="error_required">Este campo es obligatorio.</string>
+    <string name="error_invalid_number">Ingrese un número válido.</string>
+    <string name="error_negative">El valor no puede ser negativo.</string>
+    <string name="error_general">Ocurrió un error. Revise los datos ingresados.</string>
+</resources>
