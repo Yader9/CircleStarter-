@@ -1,3 +1,7 @@
+# CircleStarter
+
+![Android CI](https://github.com/Yader9/CircleStarter-/actions/workflows/android.yml/badge.svg)
+
 # CircleStarter — Actividad 2 (Validación completa de entradas)
 
 Este proyecto starter se corrigió para cumplir con los **RFU** relacionados a:
