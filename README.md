@@ -10,8 +10,6 @@ Este repositorio se utiliza como **starter académico** para prácticas de:
 - Pruebas de instrumentación (Espresso)
 - Automatización CI/CD con GitHub Actions
 
-> **Nota:** El texto de la pantalla puede conservar “sin validación” por herencia del starter, pero en **Actividad 2** ya se implementaron validaciones completas.
-
 ---
 
 ## Equipo / Contexto académico
